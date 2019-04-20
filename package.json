@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "This is a docker test",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Deeven Paul Adithela",
+  "license": "ISC"
+}
